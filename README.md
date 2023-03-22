@@ -15,6 +15,14 @@ pip install jupyter
 
 Une fois installé, vous pouvez naviguer vers le fichier du PE que vous souhaitez utiliser et exécuter le code.
 
+L'utilisation du code est très simple. Vous devez d'abord insérer votre dossier contenant vos images et le nommer **Measures_Laser_Name** où **Laser_Name** est le nom de votre laser. Insérez ensuite les trois lignes ci-dessous dans une nouvelle boîte de code à la fin du notebook Jupyter et interprétez celle-ci.
+
+```python
+plot_images("Images/Measures_Laser_Name", laser="Laser_Name")
+plot_intensity_profile("Images/Measures_Laser_Name", laser="Laser_Name")
+distance("Images/Measures_Laser_Name", laser="Laser_Name")
+```
+
 ## Contribution
 Si vous souhaitez contribuer à ce dépôt, veuillez ouvrir une issue ou envoyer une demande de fusion. Toutes les contributions sont les bienvenues, y compris les corrections de bug et les améliorations de code.
 
