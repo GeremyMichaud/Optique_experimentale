@@ -1,5 +1,5 @@
 # PHY-2006: Optique expérimentale Projet 1
-Bienvenue dans le dépôt Github du cours PHY-2006: Optique expérimentale. Ce dépôt contient les projets expérimentaux (PE) en Jupyter Notebook dans lesquelles le code est écrit en language Python.
+Bienvenue dans le dépôt Github du cours PHY-2006: Optique expérimentale. Ce dépôt contient le projet expérimental (PE) #1 en Jupyter Notebook dans lesquelles le code est écrit en language Python.
 
 ## Aperçu du contenu
 Le dépôt est organisé en plusieurs fichiers, chacun contenant les notebooks pour un des deux PE. Le premier PE couvre majoritairement l'analyse d'image alors que le second reste toujours à déterminer.
